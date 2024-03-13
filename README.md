@@ -1,12 +1,11 @@
 ### Hi there 👋
 - 👩‍🎓 I am a junior CS major at Texas A&M!
--  I enjoy concerts 🕺, coffee ☕️, and comedy shows🎭!
+- 🎀 I enjoy concerts 🕺, coffee ☕️, and comedy shows🎭!
 - 👩‍💻 I’m currently working on a Spotify playlist generator 🎶 🪩 ! 
 - 📫 How to reach me: 💌 vedajavalagi11@gmail.com or message me on [Linkedin]( https://www.linkedin.com/in/vedajavalagi/)
 - 🫶🏽 Pronouns: she / her / hers
-- My previous projects include a kung-fu-tea web app & java app 🧋 (private repos!)
-- check out my personal webpage 🖥️  https://vjavalagi.github.io/
-- my skills: 
+- 🖥️ check out my personal webpage https://vjavalagi.github.io/
+- 🛠️ my skills: 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
