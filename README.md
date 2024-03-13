@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 👩‍🎓 I am a junior CS major at Texas A&M! I am president of [Aggie Women in Computer Science](https://www.awics.org/) and a Peer Teacher on campus. I have a passion for teaching and creating technical solutions. I enjoy concerts 🕺, coffee ☕️, and comedy shows🎭!
+- 👩‍🎓 I am a junior CS major at Texas A&M!
+-  I enjoy concerts 🕺, coffee ☕️, and comedy shows🎭!
 - 👩‍💻 I’m currently working on a Spotify playlist generator 🎶 🪩 ! 
 - 📫 How to reach me: 💌 vedajavalagi11@gmail.com or message me on [Linkedin]( https://www.linkedin.com/in/vedajavalagi/)
 - 🫶🏽 Pronouns: she / her / hers
